@@ -1,0 +1,14 @@
+{
+    "name": "pmvc/heroku-config",
+    "description": "Heroku PHP centralized configs for TTFB",
+    "type": "library",
+    "keywords": ["heroku"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hill",
+            "email": "hill@kimo.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
